@@ -28,7 +28,7 @@ see (https://www.npmjs.com/package/json-server)
 
 ### buka command baru
 
-###install json-server
+### install json-server
 npm install -g json-server
 
 ### running api JSONplaceholder
