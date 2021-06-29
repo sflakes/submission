@@ -24,5 +24,12 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### How to run JSONplaceholder
+see (https://www.npmjs.com/package/json-server)
+
+### buka command baru
+
+###install json-server
 npm install -g json-server
+
+### running api JSONplaceholder
 json-server --watch db.json
